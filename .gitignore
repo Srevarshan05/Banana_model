@@ -1,0 +1,9 @@
+*.h5 
+*.MOV 
+*.pyd 
+*.dll 
+*.tflite 
+__pycache__/ 
+venv/ 
+.ipynb_checkpoints/ 
+.vscode/ 
